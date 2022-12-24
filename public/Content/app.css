@@ -1,0 +1,12 @@
+/* custom css goes here */
+body {
+    background-image: url("/Assets/images/background.svg");
+    width: 100%;
+    height: auto;
+    background-repeat: no-repeat;
+    
+}
+
+.navbar{
+    background-color: black;
+}
