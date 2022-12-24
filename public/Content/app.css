@@ -4,9 +4,20 @@ body {
     width: 100%;
     height: auto;
     background-repeat: no-repeat;
-    
+    font-family: 'Work Sans', sans-serif;
 }
 
 .navbar{
-    background-color: black;
+    background-color: transparent;
+    position: fixed;
+    width: 100%;
+}
+.bg-light{
+    background-color: transparent!important;
+}
+a
+{   color: white;
+}
+a:hover{
+    text-decoration: none;
 }
